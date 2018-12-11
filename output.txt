@@ -1,0 +1,10 @@
+When I tried to run valgrind --leak-check=yes -g ./finalcode.cc I got permission denied. 
+
+Cppcheck did not output any errors all it said was checking finalcode.cc.
+
+I didn't have time to run google test.
+
+My code does not work correctly.
+
+curl did leak some memory but not permanently.
+wc did not leak memory.
